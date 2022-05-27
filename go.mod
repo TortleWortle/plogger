@@ -1,4 +1,4 @@
-module github.com/PretendoNetwork/plogger
+module github.com/TortleWortle/plogger
 
 go 1.18
 
